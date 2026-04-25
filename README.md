@@ -12,8 +12,8 @@
 <br><br><br>
 
 ### Talking about Personal Stuffs:
-- :student: I’m currently learningand practicing `Data Science and Analytics`.
-- :collision: I’m looking to collaborate for `Data projects`.
+- :student: I’m currently learningand practicing `Performance Marketing and Analytics`.
+- :collision: I’m looking to collaborate for `Performance marketing projects`.
 - :speech_balloon: Ask me about anything, `Except maths` :neutral_face:.
 - :nerd_face: Always `learning new things`.
 - :briefcase: I’m currently open for a`job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/12a9t1l3xEBPdDTXqHcxS5jrc4jtB6SNT/view?usp=share_link).
